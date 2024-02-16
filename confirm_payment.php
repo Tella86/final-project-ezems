@@ -1,6 +1,6 @@
 <?php
 require_once "include/initialize.php";
-if (isset($_SESSION['password'])) {
+if (isset($_SESSION['pswd'])) {
     // redirect("confirm_payment.php");
 }
 
