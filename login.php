@@ -85,7 +85,7 @@ if (isset($_SESSION['ACCOUNT_ID'])) {
                         <div class="motto">
 
                         <h3><p>WELCOME&nbsp;&nbsp;TO:</p></h3>
-                        <h2><p>EZEMC&nbsp;</p></h2>
+                        <h2><p>EZEMS&nbsp;</p></h2>
                         </div>
                       </div>
                     </div>
